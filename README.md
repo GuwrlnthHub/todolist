@@ -1,2 +1,2 @@
 # todolist
-ToDoList web app using html, css, javascript
+Blog web app using html, css, javascript
